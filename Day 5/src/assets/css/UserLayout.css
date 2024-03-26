@@ -1,0 +1,6 @@
+.userLayout{
+    width: 100lvw;
+    height: 100lvw;
+    display: flex;
+    flex-direction: column;
+}

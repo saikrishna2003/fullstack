@@ -1,0 +1,10 @@
+.b_navbar1 {
+    background-color: black;
+    position: absolute;
+    height: 64px;
+    width: 100%;
+    position: fixed;
+    margin-left: -10px;
+    margin-top: -10px;
+    margin-top: -320px;
+  }
