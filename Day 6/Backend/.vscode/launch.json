@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BdaypartyApplication<bdayparty>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.java.bdayparty.BdaypartyApplication",
+            "projectName": "bdayparty",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
