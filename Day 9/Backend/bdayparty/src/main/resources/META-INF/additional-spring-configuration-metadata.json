@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "bdayparty.swagger.contact.url",
+    "type": "java.lang.String",
+    "description": "A description for 'bdayparty.swagger.contact.url'"
+  },
+  {
+    "name": "bdayparty.swagger.contact.email",
+    "type": "java.lang.String",
+    "description": "A description for 'bdayparty.swagger.contact.email'"
+  },
+  {
+    "name": "bdayparty.swagger.contact.name",
+    "type": "java.lang.String",
+    "description": "A description for 'bdayparty.swagger.contact.name'"
+  },
+  {
+    "name": "spring.jpa.propertiea.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.propertiea.hibernate.dialect'"
+  },
+  {
+    "name": "bdayparty.properties.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'bdayparty.properties.expiration'"
+  },
+  {
+    "name": "bdayparty.properties.secret_key",
+    "type": "java.lang.String",
+    "description": "A description for 'bdayparty.properties.secret_key'"
+  }
+]}
